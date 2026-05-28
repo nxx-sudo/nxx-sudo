@@ -1,8 +1,6 @@
 ````md
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=root%40kali%3A~%24+sudo+apt+install+Nxx;Initializing+system...;Loading+AI+modules...;Access+granted.;Welcome+back+Nxx." />
-
 </div>
 
 ---
